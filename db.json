@@ -35,7 +35,7 @@
     { "id": 2, "modelId": 101, "modelName": "Samsung", "price": 330 }, 
     { "id": 3, "modelId": 102, "modelName": "LG", "price": 290 }, 
     { "id": 4, "modelId": 102, "modelName": "LG", "price": 290 }, 
-    { "id": 5, "modelId": 103, "modelName": "Philips", "price: 440 }, 
+    { "id": 5, "modelId": 103, "modelName": "Philips", "price": 440 }, 
     { "id": 6, "modelId": 103, "modelName": "Philips", "price": 440 }, 
     { "id": 7, "modelId": 104, "modelName": "Xiaomi", "price": 420 }, 
     { "id": 8, "modelId": 104, "modelName": "Xiaomi", "price": 420 }, 
