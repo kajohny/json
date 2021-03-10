@@ -40,9 +40,9 @@
     { "id": 7, "modelId": 104, "modelName": "Xiaomi", "price": 420 }, 
     { "id": 8, "modelId": 104, "modelName": "Xiaomi", "price": 420 }, 
     { "id": 9, "modelId": 105, "modelName": "Starwind", "price": 390 }, 
-    { "id": 10, "modelId": 105, "modelName": "Starwind", "price": 390 }, 
+    { "id": 10, "modelId": 105, "modelName": "Starwind", "price": 390 }
   ],
-  "smartphones" : [
+  "smartphones": [
     { "id": 1, "modelId": 101, "modelName": "iPhone", "price": 375 },
     { "id": 2, "modelId": 101, "modelName": "iPhone", "price": 375 },
     { "id": 3, "modelId": 102, "modelName": "Samsung", "price": 325 },
