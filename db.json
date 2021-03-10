@@ -1,15 +1,6 @@
 {
   "users": [
-    { "id": 1, name: "Someone" },
-    
-    { "id": 1, name: "Someone" },
-    { "id": 1, name: "Someone" },
-    { "id": 1, name: "Someone" },
-    { "id": 1, name: "Someone" },
-    { "id": 1, name: "Someone" },
-    { "id": 1, name: "Someone" },
-    { "id": 1, name: "Someone" },
-    { "id": 1, name: "Someone" },{ "id": 1, name: "Someone" },
-    { "id": 1, name: "Someone" }
+    { "id": 1, "name": "Someone" },
+ 
   ]
 }
