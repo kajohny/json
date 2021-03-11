@@ -18,7 +18,7 @@
     { "id": 9, "modelId": 105, "modelName": "Mac", "price": 460 },
     { "id": 10, "modelId": 105, "modelName": "Mac", "price": 460 }
   ],
-  "television sets": [
+  "television_sets": [
     { "id": 1, "modelId": 101, "modelName": "Samsung", "price": 330 }, 
     { "id": 2, "modelId": 101, "modelName": "Samsung", "price": 330 }, 
     { "id": 3, "modelId": 102, "modelName": "LG", "price": 290 }, 
