@@ -1,10 +1,10 @@
 {
   "posts": [
-    { "id": 1, "email": "kazh@mail.ru", "password": "qwerty12345" },
-    { "id": 2, "email": "johny2@gmail.com", "password": "zzz789456" },
-    { "id": 3, "email": "mark2k@yahoo.com", "password": "asdfg14785" },
-    { "id": 4, "email": "young@spacex.org", "password": "zxcvb25896" },
-    { "id": 5, "email": "tobeor2be@mail.ru", "password": "tobeor228" }
+    { "id": 1, "email": "kazh@mail.ru", "password": "Qwerty12345!" },
+    { "id": 2, "email": "johny2@gmail.com", "password": "Zzz789456!" },
+    { "id": 3, "email": "mark2k@yahoo.com", "password": "Asdfg14785!" },
+    { "id": 4, "email": "young@spacex.org", "password": "Zxcvb25896!" },
+    { "id": 5, "email": "tobeor2be@mail.ru", "password": "Tobeor228!" }
   ], 
   "laptops": [
     { "id": 1, "modelId": 101, "modelName": "Lenovo", "price": 400 },
