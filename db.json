@@ -7,8 +7,8 @@
     { "id": 5, "email": "tobeor2be@mail.ru", "password": "Tobeor228!" }
   ], 
   "laptops": [
-    { "id": 1, "modelId": 101, "modelName": "Lenovo", "price": 400 },
-    { "id": 2, "modelId": 101, "modelName": "Lenovo", "price": 400 },
+    { "id": 1, "modelId": 101, "modelName": "Lenovo", "price": 250 },
+    { "id": 2, "modelId": 101, "modelName": "Lenovo", "price": 350 },
     { "id": 3, "modelId": 102, "modelName": "Asus", "price": 350 },
     { "id": 4, "modelId": 102, "modelName": "Asus", "price": 350 },
     { "id": 5, "modelId": 103, "modelName": "Acer", "price": 375 },
