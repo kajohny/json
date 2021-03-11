@@ -44,14 +44,14 @@
   ],
   "fridges": [
     { "id": 1, "modelId": 101, "modelName": "Samsung", "price": 310 },
-    { "id": 2, "modelId": 101"modelName": "Samsung", "price": 310 },
-    { "id": 3, "modelId": 102 "modelName": "LG", "price": 280 },
-    { "id": 4, "modelId": 102 "modelName": "LG", "price": 280 },
-    { "id": 5, "modelId": 103 "modelName": "Snowcap", "price": 245 },
-    { "id": 6, "modelId": 103 "modelName": "Snowcap", "price": 245 },
-    { "id": 7, "modelId": 104 "modelName": "Ava", "price": 265 },
-    { "id": 8, "modelId": 104"modelName": "Ava", "price": 265 },
-    { "id": 9, "modelId": 105 "modelName": "Bosch", "price": 320 },
-    { "id": 10", modelId": 10, "modelName": "Bosch", "price": 320 }
+    { "id": 2, "modelId": 101, "modelName": "Samsung", "price": 310 },
+    { "id": 3, "modelId": 102, "modelName": "LG", "price": 280 },
+    { "id": 4, "modelId": 102, "modelName": "LG", "price": 280 },
+    { "id": 5, "modelId": 103, "modelName": "Snowcap", "price": 245 },
+    { "id": 6, "modelId": 103, "modelName": "Snowcap", "price": 245 },
+    { "id": 7, "modelId": 104, "modelName": "Ava", "price": 265 },
+    { "id": 8, "modelId": 104, "modelName": "Ava", "price": 265 },
+    { "id": 9, "modelId": 105, "modelName": "Bosch", "price": 320 },
+    { "id": 10", modelId": 105, "modelName": "Bosch", "price": 320 }
   ]
 }
