@@ -52,6 +52,6 @@
     { "id": 7, "modelId": 104, "modelName": "Ava", "price": 265 },
     { "id": 8, "modelId": 104, "modelName": "Ava", "price": 265 },
     { "id": 9, "modelId": 105, "modelName": "Bosch", "price": 320 },
-    { "id": 10", modelId": 105, "modelName": "Bosch", "price": 320 }
+    { "id": 10, "modelId": 105, "modelName": "Bosch", "price": 320 }
   ]
 }
